@@ -13,8 +13,8 @@ class Triangle extends Shape {
         super(color, text, textColor)
     }
     render() {
-        return `<polygon points="150, 18 244, 182 56, 182" fill=${this.color}" />
-        <text x="150" y="130" font-size="40" text-anchor="middle" fill="${this.color}">${this.text}</text>`
+        return `<polygon points="150, 18 244, 182 56, 182" fill="${this.color}" />
+        <text x="150" y="130" font-size="40" text-anchor="middle" fill="${this.textColor}">${this.text}</text>`
     }
 }
 class Circle extends Shape {
