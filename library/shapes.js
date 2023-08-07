@@ -17,7 +17,6 @@ class Triangle extends Shape {
         <text x="150" y="130" font-size="40" text-anchor="middle" fill="${this.color}">${this.text}</text>`
     }
 }
-
 class Circle extends Shape {
     constructor(color, text, textColor) {
         super(color, text, textColor)
@@ -27,7 +26,6 @@ class Circle extends Shape {
         <text x="150" y="130" font-size="40" text-anchor="middle" fill="${this.textColor}">${this.text}</text>`
     }
 }
-
 class Square extends Shape {
     constructor(color, text, textColor) {
         super(color, text, textColor)
