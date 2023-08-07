@@ -1,4 +1,4 @@
-const {Triangle, Circle, Square} = require("./library/shapes");
+const {Triangle, Circle, Square} = require("./lib/shapes");
 const inquirer = require("inquirer");
 const maxLengthInputPrompt = require("inquirer-maxlength-input-prompt");
 const fs = require("fs");
