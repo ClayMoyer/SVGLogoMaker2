@@ -33,5 +33,5 @@ A simple SVG logo maker that takes user input and creates a logo in the SVG form
 
 ## Images
 
-![Application image 1](./Assets/images/startscreen.png)
+![Application video 1]((https://drive.google.com/file/d/1c4gXIzT4g7dk_Q1FzTDfHBCalnTlFsju/view))
 
